@@ -4,7 +4,13 @@
 
 ## MEMO
 
-day1はLeetCodeの課題を少し体験した
+### AtCoderBeginnersSelection
 
-AtCoderBeginnersSelectionでは以下の問題をこなしている
-Ref: https://atcoder.jp/contests/abs/tasks
+- 初心者向けの問題があったので、それを解いた
+  - Ref: https://atcoder.jp/contests/abs/tasks
+
+
+### AtCoder Problems
+
+- 過去問が大量にあったからA -> B -> Cの順で解いている
+  - Ref: https://kenkoooo.com/atcoder/#/table/
